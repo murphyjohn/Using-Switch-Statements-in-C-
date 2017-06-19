@@ -48,10 +48,7 @@ namespace SwitchStatement
             String grade;
             switch (result/5)
             {
-                case 20:
-                case 19:
-                case 18:
-                case 17:
+                case 20: case 19: case 18: case 17:
                     grade = "A";
                     break;
                 case 16: case 15: case 14:
