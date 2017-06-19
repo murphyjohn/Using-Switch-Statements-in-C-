@@ -60,9 +60,7 @@ namespace SwitchStatement
                 case 13: case 12: case 11:
                     grade = "C";
                     break;
-                case 10:
-                case 9:
-                case 8:
+                case 10:b case 9: case 8:
                     grade = "D";
                     break;
                 case 7: case 6: case 5:
